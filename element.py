@@ -17,4 +17,8 @@ def be(): #beryllium
 def b(): #boron
        print("Element : Boron")
        print("Atomic Number : 5")
+    
+def c(): #carbon
+       print("Element : Carbon")
+       print("Atomic Number : 6")
 

@@ -13,6 +13,7 @@ elif input == 'Be':
     print(be())
 elif input == 'B':
     print(b())
-
+elif input == 'C':
+    print(c())
 
 
