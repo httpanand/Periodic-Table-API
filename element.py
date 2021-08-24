@@ -10,6 +10,11 @@ def li(): #lithium
        print("Element : Lithium")
        print("Atomic Number : 3")
        
-def be(): #lithium
+def be(): #beryllium
        print("Element : Beryllium")
        print("Atomic Number : 4")
+
+def b(): #boron
+       print("Element : Boron")
+       print("Atomic Number : 5")
+

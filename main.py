@@ -1,5 +1,5 @@
 from element import *
-input = input('Input chemical symbol [Case Sensitive] ')#input from user
+input = input('Input chemical symbol [Case Sensitive] ')
 
 
      
@@ -11,6 +11,8 @@ elif input == 'Li':
     print(li())
 elif input == 'Be':
     print(be())
+elif input == 'B':
+    print(b())
 
 
 
