@@ -31,16 +31,19 @@ element = [
   {
     'Name':'Beryllium',
     'Atomic Number':'4',
+    'Atomic Mass':'9.0122',
     'Symbol':'Be'
   }, 
   {
     'Name':'Boron',
     'Atomic Number':'5',
+    'Atomic Mass':'10.81',
     'Symbol':'B'
   },
   {
     'Name':'Carbon',
     'Atomic Number':'6',
+    'Atomic Mass':'12.011',
     'Symbol':'C'
   },
   {
