@@ -103,26 +103,31 @@ element = [
   {
     'Name':'Sulfur',
     'Atomic Number':'16',
+    'Atomic Mass':'32.06',
     'Symbol':'S'
   },
   {
     'Name':'Chlorine',
     'Atomic Number':'17',
+    'Atomic Mass':'35.45',
     'Symbol':'Cl'
   },
   {
     'Name':'Argon',
     'Atomic Number':'18',
+    'Atomic Mass':'39.948',
     'Symbol':'Ar'
   },
   {
     'Name':'Potassium',
     'Atomic Number':'19',
+    'Atomic Mass':'39.098',
     'Symbol':'K'
   },
   {
     'Name':'Calcium',
     'Atomic Number':'20',
+    'Atomic Mass':'40.078',
     'Calcium':'Ca'
   }
 ]
