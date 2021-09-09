@@ -17,13 +17,15 @@ element = [
     'Symbol':'H'
   },    
   {
-    'Name':'Heleium',
+    'Name':'Helium',
     'Atomic Number':'2',
+    'Atomic Mass':'4.0026',
     'Symbol':'He'
   },
   {
     'Name':'Lithium',
     'Atomic Number':'3',
+    'Atomic Mass':'6.94',
     'Symbol':'Li'
   },
   {
