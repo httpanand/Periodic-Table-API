@@ -73,26 +73,31 @@ element = [
   {
     'Name':'Sodium',
     'Atomic Number':'11',
+    'Atomic Mass':'22.990',
     'Symbol':'Na'
   },
   {
     'Name':'Magnesium',
     'Atomic Number':'12',
+    'Atomic Mass':'24.305',
     'Symbol':'Mg'
   },
   {
     'Name':'Aluminium',
     'Atomic Number':'13',
+    'Atomic Mass':'26.982',
     'Symbol':'Al'
   },
   {
     'Name':'Silicon',
     'Atomic Number':'14',
+    'Atomic Mass':'28.085',
     'Symbol':'Si'
   },
   {
     'Name':'Phosphorus',
     'Atomic Number':'15',
+    'Atomic Mass':'30.974',
     'Symbol':'P'
   },
   {
