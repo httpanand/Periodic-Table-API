@@ -13,6 +13,7 @@ element = [
   { 
     'Name':'Hydrogen',
     'Atomic Number':'1',
+    'Atomic Mass':'1.008',
     'Symbol':'H'
   },    
   {
