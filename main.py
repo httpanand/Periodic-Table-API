@@ -49,21 +49,25 @@ element = [
   {
     'Name':'Nitrogen',
     'Atomic Number':'7',
+    'Atomic Mass':'14.007',
     'Symbol':'N'
   },
   {
     'Name':'Oxygen',
     'Atomic Number':'8',
+    'Atomic Mass':'15.999',
     'Symbol':'O'
   },
   {
     'Name':'Fluorine',
     'Atomic Number':'9',
+    'Atomic Mass':'18.998',
     'Symbol':'F'
   },
   {
     'Name':'Neon',
     'Atomic Number':'10',
+    'Atomic Mass':'20.180',
     'Symbol':'Ne'
   },
   {
