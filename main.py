@@ -14,13 +14,15 @@ element = [
     'Name':'Hydrogen',
     'Atomic Number':'1',
     'Atomic Mass':'1.008',
-    'Symbol':'H'
+    'Symbol':'H',
+    'Colour':'Colourless'
   },    
   {
     'Name':'Helium',
     'Atomic Number':'2',
     'Atomic Mass':'4.0026',
-    'Symbol':'He'
+    'Symbol':'He',
+    'Colour':'Colourless'
   },
   {
     'Name':'Lithium',
