@@ -130,7 +130,7 @@ element = [
     'Name':'Calcium',
     'Atomic Number':'20',
     'Atomic Mass':'40.078',
-    'Calcium':'Ca'
+    'Sy,bp;':'Ca'
   }
 ]
 
