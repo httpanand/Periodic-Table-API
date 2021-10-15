@@ -28,109 +28,127 @@ element = [
     'Name':'Lithium',
     'Atomic Number':'3',
     'Atomic Mass':'6.94',
-    'Symbol':'Li'
+    'Symbol':'Li',
+    'Colour': 'Silvery-White'
   },
   {
     'Name':'Beryllium',
     'Atomic Number':'4',
     'Atomic Mass':'9.0122',
-    'Symbol':'Be'
+    'Symbol':'Be',
+    'Colour':'Silvery-White'
   }, 
   {
     'Name':'Boron',
     'Atomic Number':'5',
     'Atomic Mass':'10.81',
-    'Symbol':'B'
+    'Symbol':'B',
+    'Colour':'Black'
   },
   {
     'Name':'Carbon',
     'Atomic Number':'6',
     'Atomic Mass':'12.011',
-    'Symbol':'C'
+    'Symbol':'C',
+    'Colour':'Black'
   },
   {
     'Name':'Nitrogen',
     'Atomic Number':'7',
     'Atomic Mass':'14.007',
-    'Symbol':'N'
+    'Symbol':'N',
+    'Colour':'Blue'
   },
   {
     'Name':'Oxygen',
     'Atomic Number':'8',
     'Atomic Mass':'15.999',
-    'Symbol':'O'
+    'Symbol':'O',
+    'Colour':'Colourless'
   },
   {
     'Name':'Fluorine',
     'Atomic Number':'9',
     'Atomic Mass':'18.998',
-    'Symbol':'F'
+    'Symbol':'F',
+    'Colour':'Yellow-Green'
   },
   {
     'Name':'Neon',
     'Atomic Number':'10',
     'Atomic Mass':'20.180',
-    'Symbol':'Ne'
+    'Symbol':'Ne',
+    'Colour':'Reddish-Orange'
   },
   {
     'Name':'Sodium',
     'Atomic Number':'11',
     'Atomic Mass':'22.990',
-    'Symbol':'Na'
+    'Symbol':'Na',
+    'Colour':'Silvery-White'
   },
   {
     'Name':'Magnesium',
     'Atomic Number':'12',
     'Atomic Mass':'24.305',
-    'Symbol':'Mg'
+    'Symbol':'Mg',
+    'Colour':'Silvery-White'
   },
   {
     'Name':'Aluminium',
     'Atomic Number':'13',
     'Atomic Mass':'26.982',
-    'Symbol':'Al'
+    'Symbol':'Al',
+    'Colour':'Silvery-White'
   },
   {
     'Name':'Silicon',
     'Atomic Number':'14',
     'Atomic Mass':'28.085',
-    'Symbol':'Si'
+    'Symbol':'Si',
+    'Colour':'Dark-Grey'
   },
   {
     'Name':'Phosphorus',
     'Atomic Number':'15',
     'Atomic Mass':'30.974',
-    'Symbol':'P'
+    'Symbol':'P',
+    'Colour':'White'
   },
   {
     'Name':'Sulfur',
     'Atomic Number':'16',
     'Atomic Mass':'32.06',
-    'Symbol':'S'
+    'Symbol':'S',
+    'Colour':'Yellow'
   },
   {
     'Name':'Chlorine',
     'Atomic Number':'17',
     'Atomic Mass':'35.45',
-    'Symbol':'Cl'
+    'Symbol':'Cl',
+    'Colour':'Yellow-Green'
   },
   {
     'Name':'Argon',
     'Atomic Number':'18',
     'Atomic Mass':'39.948',
-    'Symbol':'Ar'
+    'Symbol':'Ar',
+    'Colour':'Blue-Green'
   },
   {
     'Name':'Potassium',
     'Atomic Number':'19',
     'Atomic Mass':'39.098',
-    'Symbol':'K'
+    'Symbol':'K',
+    'Colour':'Silver'
   },
   {
     'Name':'Calcium',
     'Atomic Number':'20',
     'Atomic Mass':'40.078',
-    'Symbol':'Ca'
+    'Symbol':'Ca',
+    'Colour':'Silvery-White'
   }
 ]
 
