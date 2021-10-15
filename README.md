@@ -7,10 +7,35 @@ https://Periodic-Table-Query.anandpy2156.repl.co
 ```
 https://Periodic-Table-Query.anandpy2156.repl.co/api
 ```
-| No | Description |
-| --- | ----------- |
-| 1 | Atomic Mass |
-| 2 | Atomic Number |
-| 3 | Symbol |
-| 4 | Colour |
-| 5 | Coming Soon..
+<p align="center">
+<table>
+<thead>
+<tr>
+<th>No</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Atomic Mass</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Atomic Number</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Symbol</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Colour</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Coming Soon..</td>
+</tr>
+</tbody>
+</table>
+</p>
