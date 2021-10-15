@@ -39,3 +39,5 @@ https://Periodic-Table-Query.anandpy2156.repl.co/api
 </tbody>
 </table>
 </p>
+
+<h7> <img src="https://img.icons8.com/color/18/000000/star--v1.png"/> this repo if you like :) </h7>
