@@ -4,3 +4,6 @@
 ```
 https://Periodic-Table-Query.anandpy2156.repl.co
 ```
+```
+https://Periodic-Table-Query.anandpy2156.repl.co/api
+```
