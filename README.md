@@ -2,10 +2,10 @@
 <h2 align="center"> Periodic Table API returns info about First 20 elements of Periodic Table. </h2>
 
 ```
-https://Periodic-Table-Query.anandpy2156.repl.co
+https://Periodic-Table-API.anandpy2156.repl.co
 ```
 ```
-https://Periodic-Table-Query.anandpy2156.repl.co/api
+https://Periodic-Table-API.anandpy2156.repl.co/api
 ```
 <p align="center">
 <table>
