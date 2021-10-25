@@ -1,4 +1,7 @@
 <h1 align="center"> <img src="https://img.icons8.com/color/48/000000/periodic-table-of-elements.png"/>PERIODIC TABLE API <img src="https://img.icons8.com/external-prettycons-lineal-color-prettycons/47/000000/external-chemistry-astrology-and-symbology-prettycons-lineal-color-prettycons.png"/>   </h1>
+
+<p align="center"><a><img src="http://ForTheBadge.com/images/badges/made-with-python.svg" alt="forthebadge made-with-python"></a>
+<a href="https://GitHub.com/Naereen/"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="ForTheBadge built-with-love"></a></p>
 <h2 align="center"> Periodic Table API returns info about First 20 elements of Periodic Table. </h2>
 
 ```
